@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ejecutable.dir/find.cpp.o -o ejecutable 
